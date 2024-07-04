@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+}
+.firstdiv{
+ background-color: rgb(34, 34, 34);
+}
+button{
+    background-color: black;
+    color: ghostwhite;
+}
+.bg-dark{
+    background-color:rgb(34, 34, 34) ;
+}
+p.head{
+    font-size: 20px;
+    padding-bottom: 200px;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-size: 50px;
+    padding-top: 200px;
+    text-align: center;
+    color: white;
+
+}
+nav{
+    border-collapse: collapse;
+}
+img{
+    width: 350px;
+    height: 450px;
+    padding-top: 50px;
+    padding-right: 40px;
+}
+h3{
+    padding-top: 60px;
+}
+.nav{
+    text-align: center;
+    padding-left: 450px;
+}  
+.btn{
+    margin: 5px;
+} 
+#book{
+    background-color: orange;
+}
+#learn{
+    background-color: rgb(182, 178, 178);
+    color: black;
+}
+#btnrow{
+    background-color: white;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+#para{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(34, 34, 34);
+}
+#awards{
+    font-size: 30px;
+    text-align: center;
+    background-color: white;
+    padding-top: 20px;
+}
+.fa-star{
+    color:black;
+}
+.txtawards{
+    display: flex;
+    flex-direction: row;
+  }
+  .txtawards:before, .txtawards:after{
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid;
+    margin: auto;
+  }
+
+  #content{
+    background-color: white;
+    font-size: small;
+    
+  }
+  #content{
+    padding-top: 30px;
+  }
+  #brdr{
+    border: 1px solid;
+    margin: 4px;
+    border-radius: 5px;
+  }
+  #forheader{
+    font-size: 30px;
+    text-align: center;
+    background-color: white;
+    padding-top: 20px;
+  }
+  #backk{
+    background-color: white;
+    padding-top: 100px;
+  }
+  #footer{
+    background-color: rgb(34, 34, 34);
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  #naming{
+    color: rgb(185, 185, 185);
+  }
+  #reff{
+    color: rgb(83, 83, 235);
+  }
+  #oneside{
+    border-left: 1px solid;
+    border-color: rgb(80, 78, 78);
+  }
